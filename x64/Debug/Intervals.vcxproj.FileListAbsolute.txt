@@ -1,0 +1,4 @@
+C:\Users\Пользователь\Downloads\Intervals.2019 (1)\Intervals.2019\x64\Debug\Intervals.exe
+C:\Users\Пользователь\Downloads\Intervals.2019 (1)\Intervals.2019\x64\Debug\Intervals.pdb
+C:\Users\Пользователь\Desktop\Intervals.2019\x64\Debug\Intervals.exe
+C:\Users\Пользователь\Desktop\Intervals.2019\x64\Debug\Intervals.pdb
